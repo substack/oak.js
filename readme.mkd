@@ -2,6 +2,8 @@
 
 This website is a simple couchapp for the oak.js meetups.
 
+![oak.js](http://substack.net/images/oakjs.png)
+
 ## Install
 
 Install node.
